@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+
+#scoretext {
+    position:absolute;
+    top:0;
+    margin-top: 40px;
+
+}
+
+#deathstext {
+    position:absolute;
+    top:0;
+    margin-top: 80px;
+    border:none;
+}
+
+#score, #deaths {
+    border:none;
+}
